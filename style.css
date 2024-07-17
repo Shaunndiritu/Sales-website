@@ -1,0 +1,23 @@
+*{
+margin: 0;
+padding: o;
+box-sizing: border-box;
+}
+
+
+
+.saleslogo{
+    width: 7%;
+    height: 7%;
+}
+
+/*.Administrator_image{
+    width: 100px;
+    object-fit: contain;
+} */
+
+.cart_image{
+    width: 50px;
+    height: 50px;
+}
+
